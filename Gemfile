@@ -31,6 +31,7 @@ gem 'devise', '~> 4.2', '>= 4.2.1'
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'autoprefixer-rails'
 gem 'paperclip', '~> 5.1'
+gem 'searchkick', '~> 2.2', '>= 2.2.1'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
